@@ -1,6 +1,6 @@
 
 # Emoticons API ಠ_ಠ
-#### DEVELOPED AND MAINTENANCE BY VAIBHAV SHARMA ʕ•ᴥ•ʔ
+#### DEVELOPED BY VAIBHAV SHARMA ʕ•ᴥ•ʔ
 
 The Emoticon API is a RESTful service that provides a wide variety of emoticons categorized by type. This API is designed to be user-friendly and does not require any authorization, making it easy to integrate into your applications (*^.^*)
 
