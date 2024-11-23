@@ -8,6 +8,8 @@ import cors from 'cors';
 const __dirname = dirname(fileURLToPath(import.meta.url)); // Determine current directory
 const app = express();
 
+app.use(express.static('public'))
+
 // Enable CORS
 app.use(cors());
 
